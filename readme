@@ -1,0 +1,132 @@
+# Akan Name Generator
+
+## Author
+**Benjamin Kitema**
+
+---
+
+## Project Description
+
+The Akan Name Generator is a web application that calculates the day of the week a user was born based on their birth date and assigns them a traditional Akan name from Ghanaian culture. The application also considers the user's gender to generate the correct Akan name.
+
+This project demonstrates the use of HTML, CSS, and JavaScript by implementing arrays, functions, operators, control flow, and form validation.
+
+---
+
+## Live Site
+
+GitHub Pages:
+
+```
+https://benjaminkitema77-cyber.github.io/akan-project/
+```
+
+*(Replace the link above with your deployed GitHub Pages URL.)*
+
+---
+
+## GitHub Repository
+
+```
+https://github.com/benjaminkitema77-cyber/akan-project
+```
+
+*(Replace with your actual repository link.)*
+
+---
+
+## Features
+
+- User-friendly interface
+- Input birth day, month, and year
+- Gender selection
+- Input validation
+- Calculates the day of the week
+- Generates the correct Akan name
+- Displays the user's Akan name instantly
+- Automatically clears the form after successful submission
+
+---
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+- GitHub Pages
+
+---
+
+## Project Setup Instructions
+
+1. Clone the repository
+
+```
+git clone https://github.com/your-github-username/akan-name-generator.git
+```
+
+2. Open the project folder.
+
+3. Open the project in Visual Studio Code.
+
+4. Launch `index.html` using Live Server or open it directly in your browser.
+
+---
+
+## BDD (Behavior Driven Development)
+
+| Behavior | Input | Output |
+|----------|-------|--------|
+| User enters a valid birth date and selects Male | 12/08/2005, Male | Displays day of birth and male Akan name |
+| User enters a valid birth date and selects Female | 12/08/2005, Female | Displays day of birth and female Akan name |
+| User enters an invalid day | 40 | Alert: "Day must be between 1 and 31." |
+| User enters an invalid month | 15 | Alert: "Month must be between 1 and 12." |
+| User leaves fields empty | Empty form | Alert requesting complete birth date |
+| User does not select gender | No gender selected | Alert requesting gender selection |
+
+---
+
+## Folder Structure
+
+```
+akan-name-generator/
+│
+├── index.html
+├── styles.css
+├── script.js
+└── README.md
+```
+
+---
+
+## Future Improvements
+
+- Add dark mode.
+- Improve date validation for different month lengths.
+- Support leap years.
+- Add animations.
+- Improve mobile responsiveness.
+
+---
+
+## Contact Information
+
+**Benjamin Kitema**
+
+Email: your-email@example.com
+
+GitHub: https://github.com/your-github-username
+
+---
+
+## License
+
+MIT License
+
+Copyright (c) 2026 Benjamin Kitema
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
