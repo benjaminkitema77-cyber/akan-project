@@ -7,7 +7,7 @@
 
 ## Project Description
 
- Akan Name Generator is a web application that calculates the day of the week a user was born based on their birth date and assigns them a traditional Akan name from Ghanaian culture. The application also considers the user's gender to generate the correct Akan name .
+ the Akan Name Generator is a web application that calculates the day of the week a user was born based on their birth date and assigns them a traditional Akan name from Ghanaian culture. The application also considers the user's gender to generate the correct Akan name .
 
 This project demonstrates the use of HTML, CSS, and JavaScript by implementing arrays, functions, operators, control flow, and form validation.
 
