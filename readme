@@ -3,7 +3,7 @@
 ## Author
 **Benjamin Kitema**
 
----
+
 
 ## Project Description
 
@@ -11,29 +11,27 @@
 
 This project demonstrates the use of HTML, CSS, and JavaScript by implementing arrays, functions, operators, control flow, and Form validation .
 
----
 
 ## Live Site
 
 GitHub Pages:
 
-```
+
 https://benjaminkitema77-cyber.github.io/akan-project/
-```
+
 
 *(Replace the link above with your deployed GitHub Pages URL.)*
 
----
 
 ## GitHub Repository
 
-```
+
 https://github.com/benjaminkitema77-cyber/akan-project
-```
 
-*(Replace with your actual repository link.)*
 
----
+
+
+
 
 ## Features
 
@@ -46,7 +44,7 @@ https://github.com/benjaminkitema77-cyber/akan-project
 - Displays the user's Akan name instantly
 - Automatically clears the form after successful submission
 
----
+
 
 ## Technologies Used
 
@@ -57,15 +55,13 @@ https://github.com/benjaminkitema77-cyber/akan-project
 - GitHub
 - GitHub Pages
 
----
 
 ## Project Setup Instructions
 
 1. Clone the repository
 
-```
 git clone https://github.com/your-github-username/akan-name-generator.git
-```
+
 
 2. Open the project folder.
 
@@ -73,7 +69,7 @@ git clone https://github.com/your-github-username/akan-name-generator.git
 
 4. Launch `index.html` using Live Server or open it directly in your browser.
 
----
+
 
 ## BDD (Behavior Driven Development)
 
@@ -86,20 +82,20 @@ git clone https://github.com/your-github-username/akan-name-generator.git
 | User leaves fields empty | Empty form | Alert requesting complete birth date |
 | User does not select gender | No gender selected | Alert requesting gender selection |
 
----
+
 
 ## Folder Structure
 
-```
+
 akan-name-generator/
 │
 ├── index.html
 ├── styles.css
 ├── script.js
 └── README.md
-```
 
----
+
+
 
 ## Future Improvements
 
@@ -109,7 +105,7 @@ akan-name-generator/
 - Add animations.
 - Improve mobile responsiveness.
 
----
+
 
 ## Contact Information
 
@@ -119,7 +115,7 @@ Email: benjaminkitema77.gmail.com
 
 GitHub:  https://github.com/benjaminkitema77-cyber/akan-project.git
 
----
+
 
 ## License
 

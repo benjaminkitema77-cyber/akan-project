@@ -97,3 +97,13 @@ function generateAkanName(){
     document.getElementById("akanForm").reset();
 
 }
+
+
+
+
+
+
+
+
+
+
